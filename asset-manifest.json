@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.b1f2832f.css",
-    "main.js": "/static/js/main.4a04034e.js",
-    "static/media/premium_monthly.jpg": "/static/media/premium_monthly.e0f171ca2bd7a2878e2b.jpg",
-    "static/media/aram_working_on_grave.jpeg": "/static/media/aram_working_on_grave.cb5466800f19724527f7.jpeg",
-    "static/media/12.jpg": "/static/media/12.f03af916e7c478c9fb0b.jpg",
-    "static/media/contact.jpg": "/static/media/contact.f03af916e7c478c9fb0b.jpg",
-    "static/media/3.jpg": "/static/media/3.e2e6b0973db3d3cf9bd8.jpg",
-    "static/media/4.jpg": "/static/media/4.6c586aa2c064f5274b0b.jpg",
-    "static/media/2.jpg": "/static/media/2.f8cd4e4dfeea98dccca9.jpg",
-    "static/media/gold_background.jpg": "/static/media/gold_background.f09b2ac9916ff6916c10.jpg",
-    "static/media/total_service.jpeg": "/static/media/total_service.8494180d307fe0c44bb1.jpeg",
-    "static/media/flowers.jpg": "/static/media/flowers.924d5c6835fb40b0ee91.jpg",
-    "static/media/total-serv.jpeg": "/static/media/total-serv.cb8eda64adee4a26206f.jpeg",
-    "static/media/1.jpg": "/static/media/1.0d692303e132cbee44a7.jpg",
-    "static/media/5.jpg": "/static/media/5.fd39a6bcc79073040a49.jpg",
-    "static/media/roses.jpg": "/static/media/roses.5e418c6f7e4cdb092890.jpg",
-    "static/media/cleaning.jpeg": "/static/media/cleaning.f0928e58cc81928b89a7.jpeg",
-    "index.html": "/index.html",
-    "main.b1f2832f.css.map": "/static/css/main.b1f2832f.css.map",
-    "main.4a04034e.js.map": "/static/js/main.4a04034e.js.map"
+    "main.css": "/reviveHeadstoneCleaning/static/css/main.b1f2832f.css",
+    "main.js": "/reviveHeadstoneCleaning/static/js/main.e63daa76.js",
+    "static/media/premium_monthly.jpg": "/reviveHeadstoneCleaning/static/media/premium_monthly.e0f171ca2bd7a2878e2b.jpg",
+    "static/media/aram_working_on_grave.jpeg": "/reviveHeadstoneCleaning/static/media/aram_working_on_grave.cb5466800f19724527f7.jpeg",
+    "static/media/12.jpg": "/reviveHeadstoneCleaning/static/media/12.f03af916e7c478c9fb0b.jpg",
+    "static/media/contact.jpg": "/reviveHeadstoneCleaning/static/media/contact.f03af916e7c478c9fb0b.jpg",
+    "static/media/3.jpg": "/reviveHeadstoneCleaning/static/media/3.e2e6b0973db3d3cf9bd8.jpg",
+    "static/media/4.jpg": "/reviveHeadstoneCleaning/static/media/4.6c586aa2c064f5274b0b.jpg",
+    "static/media/2.jpg": "/reviveHeadstoneCleaning/static/media/2.f8cd4e4dfeea98dccca9.jpg",
+    "static/media/gold_background.jpg": "/reviveHeadstoneCleaning/static/media/gold_background.f09b2ac9916ff6916c10.jpg",
+    "static/media/total_service.jpeg": "/reviveHeadstoneCleaning/static/media/total_service.8494180d307fe0c44bb1.jpeg",
+    "static/media/flowers.jpg": "/reviveHeadstoneCleaning/static/media/flowers.924d5c6835fb40b0ee91.jpg",
+    "static/media/total-serv.jpeg": "/reviveHeadstoneCleaning/static/media/total-serv.cb8eda64adee4a26206f.jpeg",
+    "static/media/1.jpg": "/reviveHeadstoneCleaning/static/media/1.0d692303e132cbee44a7.jpg",
+    "static/media/5.jpg": "/reviveHeadstoneCleaning/static/media/5.fd39a6bcc79073040a49.jpg",
+    "static/media/roses.jpg": "/reviveHeadstoneCleaning/static/media/roses.5e418c6f7e4cdb092890.jpg",
+    "static/media/cleaning.jpeg": "/reviveHeadstoneCleaning/static/media/cleaning.f0928e58cc81928b89a7.jpeg",
+    "index.html": "/reviveHeadstoneCleaning/index.html",
+    "main.b1f2832f.css.map": "/reviveHeadstoneCleaning/static/css/main.b1f2832f.css.map",
+    "main.e63daa76.js.map": "/reviveHeadstoneCleaning/static/js/main.e63daa76.js.map"
   },
   "entrypoints": [
     "static/css/main.b1f2832f.css",
-    "static/js/main.4a04034e.js"
+    "static/js/main.e63daa76.js"
   ]
 }
