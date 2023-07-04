@@ -1,0 +1,42 @@
+.contact-before-sub {
+  margin: 1rem 1rem 0;
+  text-decoration: none;
+  color: #2a2a2a;
+}
+
+.contact-before-sub h1 {
+  margin-bottom: 1rem;
+}
+
+.contact-before-sub h2 {
+  margin-bottom: 1rem;
+  text-align: left;
+}
+
+.contact-before-sub img {
+  padding: 3rem;
+}
+
+.contact-before-sub p {
+  text-decoration: none;
+  text-align: left;
+  margin-bottom: 1rem;
+}
+
+.contact-before-sub a {
+  text-decoration: none;
+  color: #2a2a2a;
+}
+
+.contact-before-sub a:hover {
+  color: blue;
+}
+
+.contact-before-sub .hide img {
+  display: none;
+}
+
+.line-between {
+  margin: auto;
+  margin-top: 1rem;
+}
