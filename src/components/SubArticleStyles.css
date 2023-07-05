@@ -17,6 +17,11 @@
   padding: 3rem;
 }
 
+.article-image {
+  max-width: 50%;
+  max-height: 30rem;
+}
+
 .contact-before-sub p {
   text-decoration: none;
   text-align: left;
@@ -30,6 +35,10 @@
 
 .contact-before-sub a:hover {
   color: blue;
+}
+
+.contact-before-sub .hide {
+  height: 0;
 }
 
 .contact-before-sub .hide img {

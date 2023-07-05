@@ -10,7 +10,12 @@ class SubArticle extends Component {
           <p>{this.props.text}</p>
         </div>
         <div className={this.props.className}>
-          <img alt={this.props.img_alt} src={this.props.img} />
+          <img
+            className="article-image"
+            alt={this.props.img_alt}
+            src={this.props.img}
+          />
+          <p className="image-text">{this.props.img_text}</p>
         </div>
       </>
     );
