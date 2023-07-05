@@ -15,6 +15,7 @@ function HeadstoneBenefits() {
           text="Properly cleaning a headstone is essential for maintaining its appearance, preserving its integrity, and honoring the memory of our loved ones. Over time, headstones can accumulate dirt, grime, moss, and other pollutants, diminishing their visual appeal. In this article, we will explore effective headstone cleaning techniques that not only remove stains and debris but also ensure the long-term preservation of these cherished monuments. By implementing these techniques, you can restore the beauty of headstones while paying homage to those who have passed."
           img={Dest1}
           img_alt="headstone clean restoration granite"
+          img_text="Process of cleaning headstone."
         />
         <SubArticle
           subheading="Assessing the Headstone"

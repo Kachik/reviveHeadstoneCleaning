@@ -15,11 +15,11 @@
 
 .contact-before-sub img {
   padding: 3rem;
-  position: absolute;
-  width: 3rem;
-  height: 3rem;
-  object-fit: contain;
-  display: block;
+}
+
+.article-image {
+  max-width: 50%;
+  max-height: 30rem;
 }
 
 .contact-before-sub p {
@@ -35,6 +35,10 @@
 
 .contact-before-sub a:hover {
   color: blue;
+}
+
+.contact-before-sub .hide {
+  height: 0;
 }
 
 .contact-before-sub .hide img {

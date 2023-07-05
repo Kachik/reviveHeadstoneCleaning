@@ -14,6 +14,7 @@ function HeadstoneBenefits() {
           text="Cleaning a headstone is a thoughtful and meaningful way to preserve the memories of our loved ones and honor their legacies. However, it's important to approach the cleaning process with care and the right techniques to avoid causing damage. In this step-by-step guide, we will walk you through the process of headstone cleaning, ensuring that you restore its beauty while maintaining its integrity. Let's explore each step in detail, enabling you to undertake this task with confidence."
           img={Dest1}
           img_alt="headstone clean restoration granite"
+          img_text="Before and after image post cleaning."
         />
         <SubArticle
           subheading="Step 1: Assess the Headstone:"

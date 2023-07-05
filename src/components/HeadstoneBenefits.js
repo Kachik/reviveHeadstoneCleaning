@@ -15,6 +15,7 @@ function HeadstoneBenefits() {
           text="Headstones serve as lasting memorials to our departed loved ones, encapsulating their legacies and providing a place for remembrance and reflection. Over time, these monuments can become weathered and accumulate dirt, moss, or other debris, losing their original beauty and impact. However, regular headstone cleaning not only restores their appearance but also offers several significant benefits. In this article, we will explore the advantages of headstone cleaning, including preservation, respect, and honoring the memory of those who have passed."
           img={Dest1}
           img_alt="before after armenian headstone cleaning technique material"
+          img_text="Before and after image post cleaning."
         />
         <SubArticle
           subheading="Preserving the Integrity of the Monument"
