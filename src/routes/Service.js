@@ -3,7 +3,7 @@ import Hero from "../components/Hero";
 import ServiceImg from "../assets/gold_background.jpg";
 import Footer from "../components/Footer";
 import Services from "../components/Services";
-import ServicesTotal from "../components/ServicesTotal";
+import Trip from "../components/Trip";
 
 function Service() {
   return (
@@ -16,7 +16,7 @@ function Service() {
         url="/"
         btnClass="hide"
       />
-      <ServicesTotal />
+      <Trip />
       <Services />
       <Footer />
     </>

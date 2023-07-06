@@ -5,6 +5,8 @@ import HomeImg from "../assets/12.jpg";
 import Trip from "../components/Trip";
 import Footer from "../components/Footer";
 import Introduction from "../components/Introduction";
+import Services from "../components/Services";
+import ServicesTotal from "../components/ServicesTotal";
 
 function Home() {
   return (
@@ -21,7 +23,7 @@ function Home() {
       />
       <Introduction />
       <Destination />
-      <Trip />
+      <ServicesTotal />
       <Footer />
     </>
   );
