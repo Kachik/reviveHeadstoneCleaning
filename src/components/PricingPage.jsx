@@ -4,8 +4,8 @@ function PricingPage() {
   // Paste the stripe-pricing-table snippet in your React component
   return (
     <stripe-pricing-table
-      pricing-table-id="prctbl_1NQjzgB2xYH5zM7CNuHKeYp6"
-      publishable-key="pk_test_51NQiwgB2xYH5zM7CKIn54JBE51mvFdFM2cdyNhrM5xc4RhQdLszj2Da6LLDBFWUX17bdlWkVAW3eCAf9hTEN49WJ008fafAyjv"
+      pricing-table-id="prctbl_1NS8uvHTBFeNESJKD0BXctVc"
+      publishable-key="pk_live_51NQiqxHTBFeNESJKOkjUcA0SREvBzP6s2iGE42qajN8bZe9dAGoDQwqvQHHTpuoz7XPHjl4X1GO6MnEk3OkQBWSh00tN9Yx6Xs"
     ></stripe-pricing-table>
   );
 }
