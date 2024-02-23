@@ -11,7 +11,7 @@ function Trip() {
       <h1>Available Services</h1>
       <p>
         Only servicing Forest Lawn Cemetery in Burbank, CA. Allow 1 week after
-        purschasing for cleaning. Feel free to call at (818) 945-9762 for
+        purschasing for cleaning. Feel free to call at (626) 375-4450 for
         special requests or for any questions.
       </p>
       <br />

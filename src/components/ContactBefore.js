@@ -6,7 +6,7 @@ function ContactBefore() {
       <div className="contact-before">
         <h1>Reach Out For Inquiries</h1>
         <p>
-          Phone: <a href="tel:1-818-945-9762">(818) 945-9762</a>{" "}
+          Phone: <a href="tel:1-626-375-4450">(626) 375-4450</a>{" "}
         </p>
         <p>
           Email:{" "}
