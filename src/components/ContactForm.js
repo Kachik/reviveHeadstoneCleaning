@@ -13,7 +13,7 @@ function ContactForm() {
         "service_h4wyz7l",
         "template_xo1vb3g",
         form.current,
-        "NDrWK66nn5CdMo912"
+        "NDrWK66nn5CdMo912",
       )
       .then(
         (result) => {
@@ -21,7 +21,7 @@ function ContactForm() {
         },
         (error) => {
           console.log(error.text);
-        }
+        },
       );
   };
 
@@ -29,7 +29,7 @@ function ContactForm() {
     <div className="form-container">
       <h1>Send a message to us!</h1>
       <p>
-        If you are unable to call at (818) 945-9762, feel free to send us an
+        If you are unable to call at (626) 375-4450, feel free to send us an
         email below and we will get back to you right away.
       </p>
       <form ref={form} onSubmit={sendEmail}>

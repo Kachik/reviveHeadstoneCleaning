@@ -6,7 +6,7 @@ function Services() {
       <h1>How to Schedule Service</h1>
       <p>
         Either choose from the services above and pay with card through the
-        website, or call us at (818) 945-9762 with the location of the headstone
+        website, or call us at (626) 375-4450 with the location of the headstone
         (the cemetery and the address or approximate location), the name on the
         headstone, and the birthdate on the headstone. From here, we will
         schedule the service, and collect cash payment through Venmo, Zelle, or

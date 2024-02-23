@@ -33,8 +33,8 @@ class Navbar extends Component {
               </li>
             );
           })}
-          <a className="phone-number" href="tel:1-818-945-9762">
-            <button>(818) 945-9762</button>
+          <a className="phone-number" href="tel:1-626-375-4450">
+            <button>(626) 375-4450</button>
           </a>
         </ul>
       </nav>
