@@ -8,10 +8,9 @@ import App from "./App";
 const rootElement = document.getElementById("root");
 const root = createRoot(rootElement);
 
-root
-  .render
-  // <BrowserRouter>
-  //   <ScrollToTop />
-  //   <App />
-  // </BrowserRouter>,
-  ();
+root.render(
+  <BrowserRouter>
+    <ScrollToTop />
+    <App />
+  </BrowserRouter>,
+);
